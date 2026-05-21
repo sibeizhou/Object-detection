@@ -48,6 +48,7 @@ outputs/
 results/
 predictions/
 visualizations/
+docs/images/contact_sheet.jpg
 *.avi
 *.mp4
 
